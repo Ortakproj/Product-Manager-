@@ -1,0 +1,14 @@
+{
+  "general": {
+    "homepage_text": "دليل طبيب الأسنان"
+  },
+  "login": {
+    "login_text": "تسجيل الدخول"
+  },
+  "product_page": {
+    "name": "الاسم",
+    "description": "الوصف",
+    "form_title": "إضافة منتج",
+    "require_field_validate_msg": "حقل إجباري"
+  }
+}

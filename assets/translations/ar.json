@@ -1,0 +1,27 @@
+{
+  "general": {
+    "homepage_text": "إدارة المنتجات",
+    "save": "حفظ",
+    "update": "تعديل",
+    "delete": "حذف",
+    "ok": "نعم",
+    "cancel": "إلغاء",
+    "back": "رجوع",
+    "sign_out": "تسجيل خروج",
+    "products_list": "قائمة المنتجات",
+    "search": "بحث"
+  },
+  "login": {
+    "login_text": "تسجيل الدخول"
+  },
+  "product_page": {
+    "name": "الاسم",
+    "description": "الوصف",
+    "form_title": "إضافة منتج",
+    "require_field_validate_msg": "حقل إجباري",
+    "delete_product_dialog_title": "حذف منتج",
+    "delete_product_msg": "هل تريد حقاً حذف هذا السطر؟",
+    "add_product": "إضافة منتج",
+    "update_product": "تعديل منتج"
+  }
+}

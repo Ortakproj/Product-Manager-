@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "87184472525",
+    "project_id": "product-manager-b5b96",
+    "storage_bucket": "product-manager-b5b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87184472525:android:43d1bc663dd48d1173ec84",
+        "android_client_info": {
+          "package_name": "com.sado.product_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87184472525-hpfnfalbm2ccbh38at8198qd34qbqolb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sado.product_manager",
+            "certificate_hash": "39c46d139aa21adeecadc6355227499a8229f6f2"
+          }
+        },
+        {
+          "client_id": "87184472525-humaadopmndiktf8uk1t2v6rnnn141o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sado.product_manager",
+            "certificate_hash": "b87f28bc4a91dddcf1cb75f98233a85b3ab27858"
+          }
+        },
+        {
+          "client_id": "87184472525-cet5klicl6kfq7hio8da3t3ootsn7co4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2otFQ3T_Eu6LQAW1kBGEh6ML0vDzK7as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87184472525-cet5klicl6kfq7hio8da3t3ootsn7co4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
